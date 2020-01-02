@@ -1,9 +1,9 @@
-## Assignment 3
-Prompt the user to input their first and last name and then print them a welcome message. Try storing the input as a char variable's value.
+## Exercício 3
+Receba da entrada do usuário seu nome e sobrenome, e imprima uma mensagem de boas-vindas. Tente armazenar a entrada com um array de chars.
 
-Easy Mode: Allocate an arbitrary amount of indices to your char array and pray to the gods that the user input fits.
+Modo fácil: Aloque uma quantidade arbitrária de índices para o seu array de chars, e reze para que a entrada do usuário caiba.
 
-Extra Credit: Dynamically allocate the array size of your char variable based on the length of the user's input.
+Extra: Aloque dinâmicamente o tamanho do seu array de chars, baseado no tamanho, lido também como entrada de usuário.
 
 ## Example Output
 ```terminal_session
