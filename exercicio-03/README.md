@@ -5,11 +5,11 @@ Modo fácil: Aloque uma quantidade arbitrária de índices para o seu array de c
 
 Extra: Aloque dinâmicamente o tamanho do seu array de chars, baseado no tamanho, lido também como entrada de usuário.
 
-## Example Output
+## Exemplo de saída
 ```terminal_session
-tokyo:~/LearningC/ # ./assignment3                                     
-Enter your first name: Jimmy
-Enter your last name: Smith
-Hello Jimmy Smith!
+tarrafa:~/LearningC/ # ./exercicio3                                 
+Insira o seu nome: Tarrafa
+Insira o seu sobrenome: Hackerclube
+Olá Tarrafa Hackerclube!
 ```
 

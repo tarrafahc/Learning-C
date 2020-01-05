@@ -3,7 +3,7 @@ Inicialize e atribua um valor para uma variável do tipo inteiro, float e char. 
 
 ## Exemplo de saída
 ```terminal_session
-tarrafa:~/LearningC/ # ./ex2                                    
+tarrafa:~/LearningC/ # ./ex2                                
 5 é do tipo inteiro!
 3.140000 é do tipo float!
 A é do tipo char!

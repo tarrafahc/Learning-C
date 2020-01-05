@@ -3,7 +3,6 @@
 
 int main(void)
 {
-  //initialize vars and get their values
   float a,b,c,x;
   printf("Enter the value of variable \'A\': ");
   scanf("%f", &a);
